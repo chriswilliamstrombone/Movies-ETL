@@ -27,7 +27,7 @@ Data Sources:
 
 Enviroment:
 
-- Python 3.10
+- Python 3.10.4
 
 Dependencies:
 
