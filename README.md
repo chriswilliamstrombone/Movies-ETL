@@ -4,11 +4,11 @@
 
 This repository for Amazing Prime created a pipline to do the following:
 
-    - Extract data from two different sources.
-        - web scrape of Wikipedia website for all movies released since 1990
-        - data from Kaggle website for rating data.
-    - Transform data using Jupyter Notebook, Python, Pandas and Python RegEx module.
-    - Load data using PostgreSQL and pgAdmin to host final cleaned data set.
+- Extract data from two different sources.
+- web scrape of Wikipedia website for all movies released since 1990
+- data from Kaggle website for rating data.
+- Transform data using Jupyter Notebook, Python, Pandas and Python RegEx module.
+- Load data using PostgreSQL and pgAdmin to host final cleaned data set.
 
 
 ## Contents 
@@ -22,18 +22,18 @@ This repository for Amazing Prime created a pipline to do the following:
 
 Data Sources:
 
-    - Wikipedia web scrape JSON file
-    - Kaggle data from Kaggle.com - two files: movies_metadata.csv and ratings.csv
+- Wikipedia web scrape JSON file
+- Kaggle data from Kaggle.com - two files: movies_metadata.csv and ratings.csv
 
 Enviroment:
 
-    - Python 3.10
+- Python 3.10
 
 Dependencies:
 
-    Please see Jupyter Notebook ETL_create_database.ipynb for complete list of dependencies
+- Please see Jupyter Notebook ETL_create_database.ipynb for complete list of dependencies
 
 Software:
 
-    Jupyter Notebook
-    PostgreSQL and PgAdmin
+- Jupyter Notebook
+- PostgreSQL and PgAdmin
